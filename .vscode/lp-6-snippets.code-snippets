@@ -1,0 +1,108 @@
+{
+  // Place your lp-6 workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
+  // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
+  // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
+  // used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+  // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.
+  // Placeholders with the same ids are connected.
+  // Example:
+  // "Print to console": {
+  // 	"scope": "javascript,typescript",
+  // 	"prefix": "log",
+  // 	"body": [
+  // 		"console.log('$1');",
+  // 		"$2"
+  // 	],
+  // 	"description": "Log output to console"
+  // }
+  "gpt3__header snippet": {
+    "prefix": "gh",
+    "body": ["<div className=\"gpt3__header\"></div>"],
+    "description": "gpt3__header snippet"
+  },
+  "gpt3__header className for css": {
+    "prefix": ".gh",
+    "body": [".gpt3__header"],
+    "description": "gpt3__header className for css"
+  },
+  "gpt3__brand snippet": {
+    "prefix": "gbr",
+    "body": ["<div className=\"gpt3__brand\"></div>"],
+    "description": "gpt3__brand snippet"
+  },
+  "gpt3__brand className for css": {
+    "prefix": ".gbr",
+    "body": [".gpt3__brand"],
+    "description": "gpt3__brand className for css"
+  },
+  "gpt3__whatGPT3 snippet": {
+    "prefix": "gw",
+    "body": ["<div className=\"gpt3__whatgpt3\"></div>"],
+    "description": "gpt3__whatGPT3 snippet"
+  },
+  "gpt3__whatGPT3 className for css": {
+    "prefix": ".gw",
+    "body": [".gpt3__whatgpt3"],
+    "description": "gpt3__whatGPT3 className for css"
+  },
+  "gpt3__feature snippet": {
+    "prefix": "gf",
+    "body": ["<div className=\"gpt3__feature\"></div>"],
+    "description": "gpt3__feature snippet"
+  },
+  "gpt3__feature className for css": {
+    "prefix": ".gf",
+    "body": [".gpt3__feature"],
+    "description": "gpt3__feature className for css"
+  },
+  "gpt3__features snippet": {
+    "prefix": "gfs",
+    "body": ["<div className=\"gpt3__features\"></div>"],
+    "description": "gpt3__features snippet"
+  },
+  "gpt3__features className for css": {
+    "prefix": ".gfs",
+    "body": [".gpt3__features"],
+    "description": "gpt3__features className for css"
+  },
+  "gpt3__possibility snippet": {
+    "prefix": "gp",
+    "body": ["<div className=\"gpt3__possibility\"></div>"],
+    "description": "gpt3__possibility snippet"
+  },
+  "gpt3__possibility className for css": {
+    "prefix": ".gp",
+    "body": [".gpt3__possibility"],
+    "description": "gpt3__possibility className for css"
+  },
+  "gpt3__cta snippet": {
+    "prefix": "gc",
+    "body": ["<div className=\"gpt3__cta\"></div>"],
+    "description": "gpt3__cta snippet"
+  },
+  "gpt3__cta className for css": {
+    "prefix": ".gc",
+    "body": [".gpt3__cta"],
+    "description": "gpt3__cta className for css"
+  },
+  "gpt3__blog snippet": {
+    "prefix": "gbl",
+    "body": ["<div className=\"gpt3__blog\"></div>"],
+    "description": "gpt3__blog snippet"
+  },
+  "gpt3__blog className for css": {
+    "prefix": ".gbl",
+    "body": [".gpt3__blog"],
+    "description": "gpt3__blog className for css"
+  },
+  "gpt3__footer snippet": {
+    "prefix": "gfo",
+    "body": ["<div className=\"gpt3__footer\"></div>"],
+    "description": "gpt3__footer snippet"
+  },
+  "gpt3__footer className for css": {
+    "prefix": ".gfo",
+    "body": [".gpt3__footer"],
+    "description": "gpt3__footer className for css"
+  }
+}
